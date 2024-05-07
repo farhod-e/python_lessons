@@ -1,15 +1,16 @@
-# -*- coding: utf-8 -*-
-"""
+""" 02-lesson. First program
 Created on Mon Mar 25 12:15:16 2024
-
-@author: Asus
+@author: Farhod
 """
+
 
 print("Hello world!")
 
-# amaliyot
+
+# practices
+
 print('Assalomu aleykum')
-print("Hayrli tong!")
+print("Good morning!")
 print(2+2*4)
 print(19/5)
 print(2**4)
