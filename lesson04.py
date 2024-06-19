@@ -22,10 +22,10 @@ full_name = 'Esanov Farhod'
 start_program = 'Hello world!'
 print(start_program)
 
-letter = 'Bugungi kunga kelib python dasturlash tilini o\'rganishni boshladim'
-print(letter)
-letter = 29
-print(letter)
+text = 'Bugungi kunga kelib python dasturlash tilini o\'rganishni boshladim'
+print(text)
+text = 29
+print(text)
 
 radius = 25
 pi = 3.14159
